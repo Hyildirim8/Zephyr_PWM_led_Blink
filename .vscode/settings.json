@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "kernel.h": "c",
+        "device.h": "c",
+        "pwm.h": "c",
+        "printk.h": "c"
+    }
+}
